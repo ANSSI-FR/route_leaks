@@ -1,0 +1,7 @@
+{"origin": {"prefix": "12.0.0.0/9", "asn": 1}, "hijacker": {"prefix": "12.78.116.0/24", "asn": 202214}, "day": "2014/12/03"}
+{"origin": {"prefix": "12.0.0.0/9", "asn": 2}, "hijacker": {"prefix": "12.78.116.0/24", "asn": 202214}, "day": "2014/12/03"}
+{"origin": {"prefix": "12.0.0.0/9", "asn": 3}, "hijacker": {"prefix": "12.78.116.0/24", "asn": 202214}, "day": "2014/12/03"}
+{"origin": {"prefix": "12.0.0.0/9", "asn": 4}, "hijacker": {"prefix": "12.78.116.0/24", "asn": 202214}, "day": "2014/12/03"}
+{"origin": {"prefix": "12.0.0.0/9", "asn": 5}, "hijacker": {"prefix": "12.78.116.0/24", "asn": 202214}, "day": "2014/12/03"}
+{"origin": {"prefix": "12.0.0.0/9", "asn": 6}, "hijacker": {"prefix": "12.78.116.0/24", "asn": 202214}, "day": "2014/12/03"}
+{"origin": {"prefix": "12.0.0.0/9", "asn": 7}, "hijacker": {"prefix": "12.78.116.0/24", "asn": 202214}, "day": "2014/12/03"}

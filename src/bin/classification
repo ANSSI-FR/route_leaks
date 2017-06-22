@@ -1,0 +1,11 @@
+#! /usr/bin/env python
+
+# Copyright (C) 2017 ANSSI
+# This file is part of the detect_route_leaks project licensed under the MIT license.
+
+from route_leaks_detection.classification import classification
+
+import sys
+
+
+classification.main(sys.argv[1:])

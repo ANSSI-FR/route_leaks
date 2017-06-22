@@ -1,0 +1,47 @@
+{"type":"update","timestamp":1420070700.0,"peer_as":8758.0,"peer_ip":"2001:8e0:0:ffff::9","announce":[],"withdraw":["2620:110:9004::/48"]}
+{"type":"update","timestamp":1420070700.0,"peer_as":9304.0,"peer_ip":"218.189.6.2","as_path":"9304 17444","announce":["58.64.192.0/19"],"withdraw":[]}
+{"type":"update","timestamp":1420070700.0,"peer_as":9304.0,"peer_ip":"218.189.6.2","as_path":"9304 2914 6461 16524","announce":["208.9.6.0/24","216.194.0.0/21"],"withdraw":[]}
+{"type":"update","timestamp":1420070700.0,"peer_as":9304.0,"peer_ip":"218.189.6.2","as_path":"9304 15412 3257 209 721 27065 1554 1555 1501","announce":["143.249.244.0/24","143.249.241.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420070700.0,"peer_as":1836.0,"peer_ip":"2a01:2a8::3","as_path":"1836 3356 13620","announce":["2620:110:9004::/48"],"withdraw":[]}
+{"type":"update","timestamp":1420070700.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 1273 1299 7029","announce":["166.149.142.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420070701.0,"peer_as":57821.0,"peer_ip":"2001:67c:26f4::1","as_path":"57821 6939 3356 13620","announce":["2620:110:9004::/48"],"withdraw":[]}
+{"type":"update","timestamp":1420070701.0,"peer_as":8758.0,"peer_ip":"2001:8e0:0:ffff::9","as_path":"8758 8758 6939 3356 13620","announce":["2620:110:9004::/48"],"withdraw":[]}
+{"type":"update","timestamp":1420070701.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 8218 6461 6762 12389 41440 8382","announce":["195.46.115.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420070701.0,"peer_as":9304.0,"peer_ip":"218.189.6.2","as_path":"9304 15412 3257 209 721 27065 1554 1555 1501","announce":["143.249.244.0/24","143.249.241.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420070701.0,"peer_as":37989.0,"peer_ip":"203.123.48.6","as_path":"37989 132132 3257 209 721 27065 1554 1555 1501","announce":["143.249.241.0/24","143.249.244.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420070701.0,"peer_as":8758.0,"peer_ip":"212.25.27.44","as_path":"8758 6830 12389 9198 5434","announce":["212.13.174.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420070701.0,"peer_as":8758.0,"peer_ip":"212.25.27.44","announce":[],"withdraw":["212.13.174.0/24"]}
+{"type":"update","timestamp":1420070701.0,"peer_as":57821.0,"peer_ip":"193.160.39.1","as_path":"57821 48039 31025 31133 9198 5434","announce":["212.13.174.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420070701.0,"peer_as":1836.0,"peer_ip":"2a01:2a8::3","as_path":"1836 6939 47541 28709","announce":["2a00:bdc0:e003::/48"],"withdraw":[]}
+{"type":"update","timestamp":1420070701.0,"peer_as":1836.0,"peer_ip":"2a01:2a8::3","as_path":"1836 174 1273 47541 28709","announce":["2a00:bdc0:e003::/48"],"withdraw":[]}
+{"type":"update","timestamp":1420070701.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 12859 2914 58844","announce":["103.251.128.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420070701.0,"peer_as":9304.0,"peer_ip":"218.189.6.2","as_path":"9304 6939 12389 9198 5434","announce":["212.13.174.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420070701.0,"peer_as":1836.0,"peer_ip":"2a01:2a8::3","as_path":"1836 6939 47541 28709","announce":["2a00:bdc0:e003::/48"],"withdraw":[]}
+{"type":"update","timestamp":1420070702.0,"peer_as":7018.0,"peer_ip":"12.0.1.63","as_path":"7018 2914 58844","announce":["103.251.128.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420070702.0,"peer_as":8758.0,"peer_ip":"212.25.27.44","as_path":"8758 6830 12389 9198 5434","announce":["212.13.174.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420070702.0,"peer_as":37989.0,"peer_ip":"203.123.48.6","as_path":"37989 132132 1299 12389 9198 5434","announce":["212.13.174.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420070702.0,"peer_as":7018.0,"peer_ip":"12.0.1.63","as_path":"7018 3257 12389 9198 5434","announce":["212.13.174.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420070702.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 12859 4788 45558 131322 18399","announce":["203.81.172.0/22"],"withdraw":[]}
+{"type":"update","timestamp":1420070702.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 8218 4788 45558 131322 18399","announce":["203.81.172.0/22"],"withdraw":[]}
+{"type":"update","timestamp":1420070702.0,"peer_as":3257.0,"peer_ip":"213.200.87.254","as_path":"3257 209 721 27065 1554 1555 1501","announce":["143.249.241.0/24","143.249.244.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420070702.0,"peer_as":1836.0,"peer_ip":"2a01:2a8::3","as_path":"1836 6939 47541 28709","announce":["2a00:bdc0:e003::/48"],"withdraw":[]}
+{"type":"update","timestamp":1420070702.0,"peer_as":1836.0,"peer_ip":"2a01:2a8::3","as_path":"1836 174 1273 47541 28709","announce":["2a00:bdc0:e003::/48"],"withdraw":[]}
+{"type":"update","timestamp":1420070702.0,"peer_as":1836.0,"peer_ip":"2a01:2a8::3","as_path":"1836 6939 47541 28709","announce":["2a00:bdc0:e003::/48"],"withdraw":[]}
+{"type":"update","timestamp":1420070702.0,"peer_as":1836.0,"peer_ip":"2a01:2a8::3","as_path":"1836 6939 47541 28709","announce":["2a00:bdc0:e003::/48"],"withdraw":[]}
+{"type":"update","timestamp":1420070702.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 1273 6453 23752","announce":["202.70.64.0/21"],"withdraw":[]}
+{"type":"update","timestamp":1420070703.0,"peer_as":7018.0,"peer_ip":"12.0.1.63","as_path":"7018 209 3910 721 27065 1554 1555 1501","announce":["143.249.244.0/24","143.249.241.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420070703.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 1273 6453 23752","announce":["202.70.64.0/21"],"withdraw":[]}
+{"type":"update","timestamp":1420070703.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 1273 209 721 27065 5839","announce":["205.98.96.0/20"],"withdraw":[]}
+{"type":"update","timestamp":1420070703.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 1299 209 3910 721 27065 5839","announce":["205.98.96.0/20"],"withdraw":[]}
+{"type":"update","timestamp":1420070703.0,"peer_as":22652.0,"peer_ip":"2607:fad8::1:3","announce":[],"withdraw":["2a02:2158::/32","2800:130::/32"]}
+{"type":"update","timestamp":1420070703.0,"peer_as":22652.0,"peer_ip":"2607:fad8::1:3","as_path":"22652 6939 37105 36943","announce":["2c0f:fe90::/32"],"withdraw":[]}
+{"type":"update","timestamp":1420070703.0,"peer_as":22652.0,"peer_ip":"2607:fad8::1:3","as_path":"22652 6453 3356 13620","announce":["2620:110:9004::/48"],"withdraw":[]}
+{"type":"update","timestamp":1420070703.0,"peer_as":22652.0,"peer_ip":"2607:fad8::1:3","as_path":"22652 6939 46887 13620","announce":["2620:110:9000::/44"],"withdraw":[]}
+{"type":"update","timestamp":1420070703.0,"peer_as":57381.0,"peer_ip":"193.150.22.1","announce":[],"withdraw":["41.223.190.0/24","192.166.120.0/23","205.68.192.0/20"]}
+{"type":"update","timestamp":1420070703.0,"peer_as":57381.0,"peer_ip":"193.150.22.1","as_path":"57381 50304 1299 17444 17444","announce":["58.64.192.0/19"],"withdraw":[]}
+{"type":"update","timestamp":1420070703.0,"peer_as":57381.0,"peer_ip":"193.150.22.1","as_path":"57381 50304 174 701 22351 12491","announce":["81.199.62.0/24","81.199.63.0/24","81.199.92.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420070703.0,"peer_as":57381.0,"peer_ip":"193.150.22.1","as_path":"57381 50304 42708 3356 209 721 27065 1554 1555 1501","announce":["143.249.240.0/24","143.249.240.0/22","143.249.244.0/23","143.249.245.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420070703.0,"peer_as":57381.0,"peer_ip":"193.150.22.1","as_path":"57381 50304 174 52320 52981 262943","announce":["177.129.220.0/22"],"withdraw":[]}
+{"type":"update","timestamp":1420070703.0,"peer_as":57381.0,"peer_ip":"193.150.22.1","as_path":"57381 50304 174 52320 61568 262359","announce":["186.194.112.0/21","186.194.124.0/23"],"withdraw":[]}
+{"type":"update","timestamp":1420070703.0,"peer_as":57381.0,"peer_ip":"193.150.22.1","as_path":"57381 50304 174 52320 61568 28661","announce":["189.1.31.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420070703.0,"peer_as":57381.0,"peer_ip":"193.150.22.1","as_path":"57381 50304 174 701 22351 12491 32842","announce":["196.46.112.0/24","196.46.112.0/22","196.46.113.0/24","196.46.114.0/24","196.46.115.0/24","199.204.160.0/23","208.95.112.0/23"],"withdraw":[]}

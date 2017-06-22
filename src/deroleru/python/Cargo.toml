@@ -1,0 +1,17 @@
+[package]
+name = "deroleru-py27"
+version = "0.1.0"
+authors = ["Guillaume Valadon <guillaume@valadon.net>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies.deroleru]
+path = "../"
+
+[dependencies.cpython]
+version = "0.1"
+# Build a Python 2.7 module
+default-features=false
+features = ["python27-sys", "extension-module-2-7"]
+

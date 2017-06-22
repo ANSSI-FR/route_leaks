@@ -1,0 +1,16 @@
+[package]
+name = "deroleru"
+version = "0.1.0"
+authors = ["Guillaume Valadon <guillaume@valadon.net>"]
+
+[dependencies]
+rustc-serialize = "*"
+num = "*"
+pbr = "*"
+argparse = "*"
+pipeliner = "*"
+#log = "*"
+#env_logger = "*"
+
+[features]
+debug = []

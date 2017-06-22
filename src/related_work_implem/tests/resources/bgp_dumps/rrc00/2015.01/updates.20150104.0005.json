@@ -1,0 +1,55 @@
+{"type":"update","timestamp":1420329900.0,"peer_as":3257.0,"peer_ip":"213.200.87.254","as_path":"3257 174 33721","announce":["151.124.192.0/20"],"withdraw":[]}
+{"type":"update","timestamp":1420329900.0,"peer_as":7018.0,"peer_ip":"12.0.1.63","as_path":"7018 701 393588","announce":["192.58.137.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329900.0,"peer_as":7018.0,"peer_ip":"12.0.1.63","as_path":"7018 174 33721","announce":["151.124.192.0/20"],"withdraw":[]}
+{"type":"update","timestamp":1420329900.0,"peer_as":7018.0,"peer_ip":"12.0.1.63","as_path":"7018 2914 15412 9304 23752","announce":["202.70.64.0/21"],"withdraw":[]}
+{"type":"update","timestamp":1420329900.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 1103 12389 41440 8382","announce":["195.46.115.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329901.0,"peer_as":37989.0,"peer_ip":"203.123.48.6","as_path":"37989 132132 2914 174 19853 11728 11728 11728 11728","announce":["67.159.252.0/23"],"withdraw":[]}
+{"type":"update","timestamp":1420329901.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 1299 12389 41440 8382","announce":["195.46.115.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329901.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 6939 12389 41440 8382","announce":["195.46.115.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329901.0,"peer_as":7018.0,"peer_ip":"12.0.1.63","as_path":"7018 6453 12389 41440 8382","announce":["195.46.115.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329901.0,"peer_as":9304.0,"peer_ip":"218.189.6.2","as_path":"9304 12389 41440 8382","announce":["195.46.115.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329901.0,"peer_as":57821.0,"peer_ip":"193.160.39.1","as_path":"57821 6939 12389 41440 8382","announce":["195.46.115.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329901.0,"peer_as":7018.0,"peer_ip":"12.0.1.63","as_path":"7018 3549 9304 23752","announce":["202.70.64.0/21"],"withdraw":[]}
+{"type":"update","timestamp":1420329901.0,"peer_as":7018.0,"peer_ip":"12.0.1.63","announce":[],"withdraw":["186.226.57.0/24"]}
+{"type":"update","timestamp":1420329901.0,"peer_as":7018.0,"peer_ip":"12.0.1.63","as_path":"7018 174 19853 11728 11728 11728 11728","announce":["67.159.252.0/23"],"withdraw":[]}
+{"type":"update","timestamp":1420329901.0,"peer_as":7018.0,"peer_ip":"12.0.1.63","as_path":"7018 174 33721","announce":["151.124.192.0/20"],"withdraw":[]}
+{"type":"update","timestamp":1420329901.0,"peer_as":7018.0,"peer_ip":"12.0.1.63","as_path":"7018 701 393588","announce":["192.58.137.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329901.0,"peer_as":9304.0,"peer_ip":"218.189.6.2","as_path":"9304 6939 12389 41440 8382","announce":["195.46.115.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329901.0,"peer_as":9304.0,"peer_ip":"218.189.6.2","as_path":"9304 6939 12389 41440 8382","announce":["195.46.115.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329901.0,"peer_as":7018.0,"peer_ip":"12.0.1.63","as_path":"7018 2914 58844","announce":["103.251.128.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329901.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 8218 5511 2914 58844","announce":["103.251.128.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329901.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 8218 5511 3356 25003","announce":["192.115.44.0/22"],"withdraw":[]}
+{"type":"update","timestamp":1420329901.0,"peer_as":37989.0,"peer_ip":"203.123.48.6","as_path":"37989 132132 3257 174 33721","announce":["151.124.192.0/20"],"withdraw":[]}
+{"type":"update","timestamp":1420329901.0,"peer_as":9304.0,"peer_ip":"218.189.6.2","announce":[],"withdraw":["103.251.128.0/24"]}
+{"type":"update","timestamp":1420329902.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 8218 5511 3356 20485 9198","announce":["89.218.78.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329902.0,"peer_as":1836.0,"peer_ip":"2a01:2a8::3","as_path":"1836 13237 35226","announce":["2a02:2158::/32"],"withdraw":[]}
+{"type":"update","timestamp":1420329902.0,"peer_as":7018.0,"peer_ip":"12.0.1.63","announce":[],"withdraw":["103.251.128.0/24"]}
+{"type":"update","timestamp":1420329902.0,"peer_as":7018.0,"peer_ip":"12.0.1.63","as_path":"7018 3561 54465","announce":["206.152.15.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329902.0,"peer_as":37989.0,"peer_ip":"203.123.48.6","as_path":"37989 132132 3257 174 19853 11728 11728 11728 11728","announce":["67.159.252.0/23"],"withdraw":[]}
+{"type":"update","timestamp":1420329902.0,"peer_as":37989.0,"peer_ip":"203.123.48.6","as_path":"37989 132132 7473 2914 58844","announce":["103.251.128.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329902.0,"peer_as":37989.0,"peer_ip":"203.123.48.6","as_path":"37989 132132 7473 12389 41440 8382","announce":["195.46.115.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329902.0,"peer_as":9304.0,"peer_ip":"218.189.6.2","as_path":"9304 6453 2914 58844","announce":["103.251.128.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329902.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 1273 2516 18135","announce":["42.83.48.0/20"],"withdraw":[]}
+{"type":"update","timestamp":1420329902.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 57023 36947","announce":["81.52.162.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329902.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","announce":[],"withdraw":["151.190.100.0/24"]}
+{"type":"update","timestamp":1420329902.0,"peer_as":37989.0,"peer_ip":"203.123.48.6","as_path":"37989 132132 1273 3356 2914 58844","announce":["103.251.128.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329903.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 1103 20485 9198","announce":["89.218.78.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329903.0,"peer_as":9304.0,"peer_ip":"218.189.6.2","announce":[],"withdraw":["186.226.57.0/24"]}
+{"type":"update","timestamp":1420329903.0,"peer_as":9304.0,"peer_ip":"218.189.6.2","as_path":"9304 9498 9829 23752","announce":["202.70.64.0/21"],"withdraw":[]}
+{"type":"update","timestamp":1420329903.0,"peer_as":7018.0,"peer_ip":"12.0.1.63","as_path":"7018 6453 23752","announce":["202.70.64.0/21"],"withdraw":[]}
+{"type":"update","timestamp":1420329903.0,"peer_as":57821.0,"peer_ip":"193.160.39.1","as_path":"57821 6939 12389 9198","announce":["89.218.78.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329903.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 1103 31133 9198","announce":["89.218.78.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329903.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 1103 20485 9198","announce":["89.218.78.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329903.0,"peer_as":3333.0,"peer_ip":"193.0.0.56","as_path":"3333 31133 9198","announce":["89.218.78.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329903.0,"peer_as":3549.0,"peer_ip":"208.51.134.248","as_path":"3549 209 40227","announce":["192.110.19.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329903.0,"peer_as":3549.0,"peer_ip":"208.51.134.248","announce":[],"withdraw":["151.190.100.0/24"]}
+{"type":"update","timestamp":1420329903.0,"peer_as":3549.0,"peer_ip":"208.51.134.248","as_path":"3549 3257 21840","announce":["64.16.216.0/22","207.150.172.0/22"],"withdraw":[]}
+{"type":"update","timestamp":1420329903.0,"peer_as":3549.0,"peer_ip":"208.51.134.248","as_path":"3549 7843 20001 53249","announce":["198.140.114.0/24","198.140.115.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329903.0,"peer_as":3549.0,"peer_ip":"208.51.134.248","as_path":"3549 3356 3491 55410 38266","announce":["203.88.22.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329903.0,"peer_as":3549.0,"peer_ip":"208.51.134.248","as_path":"3549 3356 3491 55410 38266","announce":["1.38.4.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329903.0,"peer_as":3549.0,"peer_ip":"208.51.134.248","as_path":"3549 12956 36947","announce":["81.52.162.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329903.0,"peer_as":3549.0,"peer_ip":"208.51.134.248","as_path":"3549 3356 3561 54465","announce":["206.152.15.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329903.0,"peer_as":3549.0,"peer_ip":"208.51.134.248","as_path":"3549 11556 27873","announce":["200.6.52.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329903.0,"peer_as":3549.0,"peer_ip":"208.51.134.248","announce":[],"withdraw":["182.50.246.0/24","192.115.44.0/22"]}
+{"type":"update","timestamp":1420329903.0,"peer_as":3549.0,"peer_ip":"208.51.134.248","as_path":"3549 286 16243 16243 16243 16243","announce":["91.223.131.0/24"],"withdraw":[]}
+{"type":"update","timestamp":1420329903.0,"peer_as":3549.0,"peer_ip":"208.51.134.248","as_path":"3549 3356 20386","announce":["204.50.74.0/24"],"withdraw":[]}
