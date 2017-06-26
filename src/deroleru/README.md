@@ -19,7 +19,7 @@ cargo build --release
 
 ## Usage
 
-By default, `deroleru` requires a data file. The file `data/pfx_cfl_2015.json`
+By default, `deroleru` requires a data file. The file `data/pfx_cfl_2016.json`
 can be used as an example. The `--params` parameter can be used to override the
 default parameters, or test several parameters on a single dataset. The
 `--flat` parameter provides a compact output. The `--progress` displays a
@@ -27,7 +27,7 @@ progress bar: this is useful when computing results with many parameters.
 
 A typical run looks like:
 ```shell
-$ cargo run --release -- data/pfx_cfl_2015.json --flat
+$ cargo run --release -- data/pfx_cfl_2016.json --flat
     Finished release [optimized] target(s) in 0.0 secs
      Running `target/release/deroleru data/pfx_cfl_2016.json --flat`
 [..]

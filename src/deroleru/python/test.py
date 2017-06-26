@@ -6,7 +6,7 @@ import json
 
 default_params = [10, 5, 0.9, 2, 0.9]
 
-for line in open("../data/pfx_cfl_2015.json"):
+for line in open("../data/pfx_cfl_2016.json"):
     data = json.loads(line)
     prefixes = data["prefixes"]
     conflicts = data["conflicts"]
