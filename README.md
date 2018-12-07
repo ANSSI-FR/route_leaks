@@ -1,5 +1,7 @@
 # Route Leak Detection
 
+As of September 2018, this project is no longer maintained. It is kept available for reference but the repository will be archived read-only.
+
 ## Overview
 
 This project intends to help detecting BGP fullview route leaks.  
